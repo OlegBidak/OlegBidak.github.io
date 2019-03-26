@@ -1,0 +1,107 @@
+	.shafa{
+		width: 450px;
+		border: 3px #555 solid;
+		padding: 5px;
+		margin: 15px;
+		float: left;
+		background-color: black;
+		}
+
+		.polychka1,.polychka2,.polychka3,.polychka4{
+			height: 260px;
+			border: 4px #333 solid;
+			margin-top: 15px;
+		}
+		.polychka1{
+			background-color:grey;
+		}
+		.polychka2{
+			background-color: blue;
+		}
+		.polychka3{
+			background-color: yellow;
+		}
+		.polychka4{
+			background-color: green;
+		}
+
+	.hatka1,.hatka2,.hatka3,.hatka4,.hatka5,.hatka6,.hatka7,.hatka8,.hatka9,.hatka10,.hatka11,.hatka12{
+		width: 100px;
+		height: 200px;
+		border: 3px #333 solid;
+		float: left;
+		padding: 5px;
+		margin: 15px;
+	}
+	.hatka1{
+		background-color:  #FFFFFF;
+		opacity: 0.7;
+	}
+	.hatka2{
+		background-color: #FF5733;
+		opacity: 0.5;
+
+	}
+	.hatka3{
+		background-color: #FF0000;
+		opacity: 0.5;
+
+	}
+	.hatka4{
+		background-color: #FF0000;
+		opacity: 0.5;
+
+	}
+	.hatka5{
+		background-color: orange;
+		opacity: 0.5;
+
+	}
+	.hatka6{
+		background-color: #00BFFF;
+		opacity: 0.5;
+
+	}
+	.hatka7{
+		background-color: red;
+		opacity: 0.7;
+
+	}
+	.hatka8{
+		background-color: #00FFFF;
+		opacity: 0.5;
+
+	}
+	.hatka9{
+		background-color: #B22222;
+		opacity: 0.7;
+
+	}
+	.hatka10{
+		background-color: #FF00FF;
+		opacity: 0.5;
+
+	}
+	.hatka11{
+		background-color:#8B4513;
+		opacity: 0.7;
+
+	}
+	.hatka12{
+		background-color:#FF0000;
+		opacity: 0.5;
+
+	}
+
+
+	a {
+		color: black;
+		font-size: 20px;
+		text-decoration: none;
+	}
+	a:hover{
+		color: brown;
+	}
+	.hatka:hover{
+		opacity: 1;
+	}
